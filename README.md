@@ -153,9 +153,3 @@ When all python dependencies are installed , simply execute the .py script named
 ```python flask_app.py ``` in the cmd prompt should do the task.
 Follow the link generated, and the flask code should be up and running !
 
-## Creators
-* [Ashish Bhawnani](https://github.com/ashishgeeky)
-* [Nipun Binjola](https://github.com/NipunBinjola)
-* [Akash Rana](https://github.com/akash29rana)
-* [Rahul Chauhan](https://github.com/RanaRauff)
-
